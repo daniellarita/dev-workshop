@@ -56,7 +56,7 @@ http://www.sublimetext.com/3
 
 #### Enable `subl` from the Command line
 ```
-ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
 ```
 
 And here are my own personal Sublime settings
