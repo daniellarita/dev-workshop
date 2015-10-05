@@ -3,7 +3,9 @@
 ## Let's Git it on
 #### Download and install Git
 This is a large file, so hopefully you've already done this. If not, try grabbing it from someone who has via "Air Drop". Probably faster than downloading from the interwebs.
-`http://git-scm.com/download/mac`
+```
+http://git-scm.com/download/mac
+```
 
 #### Download and install Github Mac Client
 This is optional and you can do everything from the command line using the `git` command, but some people prefer using a visual client. It doesn't hurt to have it.
