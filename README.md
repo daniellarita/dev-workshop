@@ -23,17 +23,20 @@ Make sure you drag the application icon from your "Downloads" folder to your "Ap
 You may also want to "Keep in Dock" the iTerm app, so that its always there and easily accessible.
 
 #### Zsh is good for you
+Change your default bash to Zsh. What the hell does that mean? Without getting too much into it, it just gives you more tools and its generally smarter and better at things than `bash`. So let's tell OSX to use `zsh` as the default shell command.
 ```
 chsh -s $(which zsh)
 ```
 
-#### Make command line useful & pretty
-`https://github.com/holman/dotfiles`
+#### Make our Command line useful & pretty
+Somebody spent a lot of time putting together a bunch of very useful things to make your Command line all beautiful and useful and also provide you with tons of shortcuts so you don't have to type as much. Thanks Mr. Holman.
 ```
 git clone https://github.com/holman/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 script/bootstrap
 ```
+
+We'll also creat this file in our home directory so we can put some of our own shortcuts and commands
 ```
 touch ~/.localrc
 ```
