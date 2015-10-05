@@ -38,9 +38,14 @@ cd ~/.dotfiles
 script/bootstrap
 ```
 
-We'll also creat this file in our home directory so we can put some of our own shortcuts and commands
+We'll also creat this file in our home directory so we can put some of our own shortcuts and commands.
 ```
 touch ~/.localrc
+```
+
+For example, here is what I have inside my `.localrc` file:
+```
+https://gist.github.com/i8ramin/622f5703f0089c20733a
 ```
 
 ## Sublime Settings
