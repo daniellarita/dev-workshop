@@ -48,5 +48,18 @@ For example, here is what I have inside my `.localrc` file:
 https://gist.github.com/i8ramin/622f5703f0089c20733a
 ```
 
-## Sublime Settings
-`https://gist.github.com/i8ramin/2e6285ca122f8b291be5`
+## Sublime is pretty neat
+Sublime is a very nice, minimal and extremely powerful editor. Let's install it!
+```
+http://www.sublimetext.com/3
+```
+
+#### Enable `subl` from the Command line
+```
+ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+```
+
+And here are my own personal Sublime settings
+```
+https://gist.github.com/i8ramin/2e6285ca122f8b291be5
+```
